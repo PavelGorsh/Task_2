@@ -41,6 +41,6 @@
 
 ### Документация
 
-URL Stellar Burger: https://qa-stellarburgers.education-services.ru/
+URL Stellar Burgers: https://qa-stellarburgers.education-services.ru/
 
-Документация к API Stellar Burger: https://code.s3.yandex.net/qa-automation-engineer/python-full/diploma/api-Stelar_Burger_10.25.pdf?etag=3584917d935c90b69cb3ffaff58d4f34
+Документация к API Stellar Burgers: https://code.s3.yandex.net/qa-automation-engineer/python-full/diploma/api-Stelar_Burger_10.25.pdf?etag=3584917d935c90b69cb3ffaff58d4f34
